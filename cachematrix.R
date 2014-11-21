@@ -1,5 +1,4 @@
 ## R Programming - Assignment 2
-## Yu-Li Chang 
 ## 11/20/2014
 ##
 ## Function makeCasheMatrix creates a special "vector", which is really
